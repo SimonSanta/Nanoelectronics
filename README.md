@@ -8,4 +8,7 @@ The subject of this paper, which is the study of magnetoconductance oscillation 
 
 The project is realised using PYTHON and Kwant Libraries.
 
+![image](https://user-images.githubusercontent.com/48290004/153200446-2578a426-b3c1-467f-a345-518e66f7c8eb.png)
+*Fig1. Python KWANT nanoelectronics simulation of a graphene monolayer*
+
 *Report in english on Github.*
